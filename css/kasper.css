@@ -911,7 +911,8 @@ border-bottom: 1px solid var(--maincolor);
     background: none;
     padding: 20px 20px 20px 60px;
     caret-color: var(--maincolor);
-    width: calc(900px - 130px)
+    width: calc(900px - 130px);
+    color: white;
 }
 .subscribe form input[type="email"]:focus{
     outline: none;
